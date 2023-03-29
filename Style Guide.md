@@ -12,8 +12,8 @@ QUICKSAND
 
 ## Grid Styles<br>
 Columns : 10<br>
-Width : &nbsp;&nbsp;&nbsp;Auto<br>
-Margin : &nbsp;&nbsp;120<br>
+Width : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auto<br>
+Margin : &nbsp;&nbsp;&nbsp;120<br>
 Type : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stretch<br>
 Gutter :&nbsp;&nbsp;&nbsp;&nbsp; 24<br>
 
