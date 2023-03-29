@@ -12,10 +12,10 @@ QUICKSAND
 
 ## Grid Styles<br>
 Columns : 10<br>
-Width : Auto<br>
-Margin : 120<br>
-Type : Stretch<br>
-Gutter : 24<br>
+Width : $nbsp$nbsp$nbspAuto<br>
+Margin : $nbsp$nbsp$nbsp120<br>
+Type : $nbsp$nbsp$nbspStretch<br>
+Gutter :$nbsp$nbsp$nbsp 24<br>
 
 ## Frame
 MacBook Pro 14 1512 * 982
