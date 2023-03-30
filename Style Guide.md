@@ -11,11 +11,11 @@ QUICKSAND
 ![Color Styles](https://user-images.githubusercontent.com/99127888/228521282-1b299983-ecb9-458e-bfbd-5538081bc933.png)
 
 ## Grid Styles<br>
-Columns : 10<br>
+Columns : &nbsp;&nbsp;10<br>
 Width : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auto<br>
 Margin : &nbsp;&nbsp;&nbsp;120<br>
-Type : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stretch<br>
+Type : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stretch<br>
 Gutter :&nbsp;&nbsp;&nbsp;&nbsp; 24<br>
 
 ## Frame
-MacBook Pro 14 1512 * 982
+MacBook Pro 14 (1512 * 982)
