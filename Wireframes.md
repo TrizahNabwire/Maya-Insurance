@@ -14,4 +14,11 @@
 
 
 ## Member C
+![Pet Owner](https://user-images.githubusercontent.com/99127888/228847369-2188385d-d3dd-4255-9406-9f49dc53ff94.png)
+![Pet Details](https://user-images.githubusercontent.com/99127888/228848270-60b9af1c-513c-462b-b758-84a141731ac8.png)
+![Pet Details Summary](https://user-images.githubusercontent.com/99127888/228848702-4e83721d-4f9e-4232-ab71-015994e26de3.png)
+![Other Pet Option](https://user-images.githubusercontent.com/99127888/228848902-fbfd36a3-1482-4ed7-9db0-64f2da6bcda0.png)
+
+
+## Member D
 
