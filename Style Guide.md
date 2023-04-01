@@ -5,7 +5,7 @@ QUICKSAND
 ![Quicksand Font Bold](https://user-images.githubusercontent.com/99127888/228520841-80928b9f-fcce-474f-8341-b3bd31ebe30a.png)
 
 ## Buttons
-![Buttons](https://user-images.githubusercontent.com/99127888/228521186-c09a7641-a824-4735-9269-f51716ad84e0.png)
+![Buttons (1)](https://user-images.githubusercontent.com/99127888/229288745-15d5d3ad-b2a4-4c13-a1bb-a86835109d35.png)
 
 ## Color Styles
 ![Color Styles](https://user-images.githubusercontent.com/99127888/228521282-1b299983-ecb9-458e-bfbd-5538081bc933.png)
