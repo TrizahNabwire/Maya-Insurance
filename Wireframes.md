@@ -21,4 +21,8 @@
 
 
 ## Member D
+![image_67142657 1](https:/![image_67197953 2](https://user-images.githubusercontent.com/99127888/229287205-d7c34403-4661-4bed-b38d-7c857ae5061f.png)
+/user-images.githubusercontent.com/99127888/229286214-8743c66f-0490-4446-984f-70982313be57.png)
+![image_67179521 1](https://user-images.githubusercontent.com/99127888/229287263-90642e62-7bf9-4d9f-9d6b-942f4a688112.png)
+![image_67187457 1](https://user-images.githubusercontent.com/99127888/229287319-0dd85a56-1169-4959-98f9-cf16e0c5650a.png)
 
